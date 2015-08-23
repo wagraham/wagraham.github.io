@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[<img class="alignleft size-full wp-image-133" src="http://www.wyattgraham.com/wp-content/uploads/2014/02/Wyatt-Face-Shot.jpg" alt="Wyatt Face Shot" width="295" height="242" />] 
+
+
+ Wyatt Graham is pursuing a PhD at the Southern Baptist Theological Seminary. He is a member of the Evangelical Theological Society and the Society of Biblical Literature. His interests include the Psalms, Ancient Christian Studies, Hebrew Language, and Biblical Theology. Wyatt serves as part of the editorial staff. He attends Immanuel with his wife, Leanne.
+
+You can follow him on Twitter @wagraham
+
+[here is my picture]({{wagraham.github.io}}/assets/Wyatt-Face-Shot.jpg).
+
+[<img src="http://www.wagraham.github.io/assets/wyatt-face-shot.jpg"/>]
