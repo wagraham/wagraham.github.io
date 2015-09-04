@@ -8,6 +8,7 @@ categories:
 tags:
   - Basil
   - Trolls
+comments: true
 ---
 You&#8217;ve probably noticed how religious folk battle it out on the internet, often trying to one-up others or catch people in &#8220;error.&#8221; Yep, catching an error and helping someone is important. But often internet warriors just want to dominate, using &#8220;truth&#8221; as a pretext for their bad behavior. Basil reminds us that this is not a new phenomenon:
 
