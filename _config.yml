@@ -11,3 +11,4 @@ github_username:  wagraham
 
 # Build settings
 markdown: kramdown
+excerpt_seperator: <!--more-->
