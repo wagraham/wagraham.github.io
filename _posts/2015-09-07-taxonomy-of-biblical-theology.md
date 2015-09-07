@@ -19,5 +19,7 @@ Each kind of biblical theology can differ from one another in their views of (1)
 A simple way to think about these differences is to see them on a spectrum from history to theology. In other words, does a biblical theologian focus more on history or more on theology when he or she studies Scripture? 
 
 Klink and Lockett's book, <i>Understanding Biblical Theology</i>, provides a helpful heuristic tool to understand how different people study the Bible. The five specific differences (e.g., how the OT relates to the NT) provide a means to understand how and why someone makes an interpretive move in the way he or she does. 
-I recommend reading Klink and Lockett's book to help pastors, students, and interested readers to understand what interpreters are doing when they come to the text of Scripture.       
+I recommend reading Klink and Lockett's book to help pastors, students, and interested readers to understand what interpreters are doing when they come to the text of Scripture.    
+
+{% include twitter_plug.html %}   
 
