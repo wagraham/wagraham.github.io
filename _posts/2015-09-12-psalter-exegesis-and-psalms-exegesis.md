@@ -20,7 +20,7 @@ Yet each Psalm comprises part of the whole Psalter, a single book. As Zenger not
 
 Psalter-exegesis changes a person’s basic stance towards the text. No longer does one study what Psalm 23 says as a single, historical psalm; rather, one considers how Psalm 23’s meaning (which includes its historical context) contributes to the whole Psalter as a unified book. For example, one might consider how Psalm 23 relates to Psalms 22 and 24. Perhaps Psalm 23 participates in a collection of Psalms, beginning at Psalm 15 and ending at Psalm 24. If so, perhaps Psalm 23 describes how God as king (shepherd) leads his messiah (the King of Israel; cf. Ps 18 & 22) to green pastures, to idyllic vistas, because God rules the universe (Ps 24).
 
-With this example, I hope the pay-off of using Psalter-exegesis and not only Psalm-exegesis becomes clear. The simple mental shift of reading a Psalm by itself to reading a Psalm in the context of the previous and subsequent can really improve one’s grasp the Psalter. Actually, it also greatly improves one’s understanding of individual Psalms. 
+With this example, I hope the pay-off of using Psalter-exegesis and not only Psalm-exegesis becomes clear. The simple mental shift of reading a Psalm by itself to reading a psalm in the context of the previous and subsequent psalms can really improve one’s grasp the Psalter. Actually, it also greatly improves one’s understanding of individual psalms. 
 
 Before someone objects to Psalter-exegesis since it sounds too “difficult” or “academic,” I’d like suggest that Psalter-exegesis only requires that a person reads one Psalm and peeks at what came before and at what comes after it. I mean, that’s a normal way to read any book. I really don’t think I am advocating anything onerous here. 
 
