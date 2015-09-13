@@ -22,7 +22,7 @@ Psalter-exegesis changes a person’s basic stance towards the text. No longer d
 
 With this example, I hope the pay-off of using Psalter-exegesis and not only Psalm-exegesis becomes clear. The simple mental shift of reading a Psalm by itself to reading a Psalm in the context of the previous and subsequent can really improve one’s grasp the Psalter. Actually, it also greatly improves one’s understanding of individual Psalms. 
 
-Before someone objects to Psalter-exegesis since it sounds too “difficult” or “academic,” I’d like suggest that Psalter-exegesis only requires that a person reads one Psalm and peak at came before and what comes after it. I mean, that’s a normal way to read any book. I really don’t think I am advocating anything onerous here. 
+Before someone objects to Psalter-exegesis since it sounds too “difficult” or “academic,” I’d like suggest that Psalter-exegesis only requires that a person reads one Psalm and peeks at what came before and at what comes after it. I mean, that’s a normal way to read any book. I really don’t think I am advocating anything onerous here. 
 
  
 
