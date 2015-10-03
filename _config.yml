@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Wyatt Graham | Writings and Reviews
-tagline:          'A Jekyll theme'
+title:            Wyatt Graham
+tagline:          'Writings & Reviews'
 description:      'A blog dedicated to cultural and theological issues, as well as book reviews.  Follow me at <a href="https://twitter.com/mdo" target="_blank">@wagraham</a>.'
-url:              http://wyattgraham.com
+#url:              http://wyattgraham.com
 baseurl:          /
 
 author:
