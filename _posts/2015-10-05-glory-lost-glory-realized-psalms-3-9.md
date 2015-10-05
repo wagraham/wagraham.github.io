@@ -28,3 +28,6 @@ But does Psalm 8 really satisfy the demands of David's situation? What does it m
 David nevertheless has not escaped trouble for he still experiences affliction (9:13), yet the note of Psalm 9 constantly hits hope and victory. David's situation has changed from Psalms 3–7 for the better. At the very least, Psalms 8–9 show a different perspective on David's conflict. David now trusts fully in God for victory without doubt (Ps 9) and takes hold of the glory that is his by right of creation in God's image (Ps 8). By seeing God as glorious giver (Ps 8) and dominating destroyer (Ps 9), David's fortunes have changed. Whether Psalms 8–9 show only David's new perspective or a new perspective and an effectual victory of David's enemies (as the historical books recall), I am not completely sure. 
 
 At least one things seems clear, however: David's glory was never lost; it was his at creation, and David's victory was never hopeless; The God of hope sits enthroned at Zion forever (cf. Ps 9:11).
+
+
+{% include twitter_plug.html %}  
