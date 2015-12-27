@@ -1,14 +1,26 @@
-# Site settings
-title: Wyatt Graham | Writings and Reviews
-email: wagraham87@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A blog dedicated to theological and social issues, as well as
-  book reviews.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://wagraham.github.io" # the base hostname & protocol for your site
-twitter_username: wagraham
-github_username:  wagraham
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
-excerpt_seperator: <!--more-->
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Wyatt Graham
+tagline:          'Writings & Reviews'
+description:      'A blog dedicated to cultural and theological issues, as well as book reviews.  Follow me at <a href="https://twitter.com/wagraham" target="_blank">@wagraham</a>.'
+#url:              http://wyattgraham.com
+baseurl:          /
+
+author:
+  name:           'Wyatt Graham'
+  url:            https://twitter.com/wagraham
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+#github:
+  #repo:           https://github.com/poole/hyde
