@@ -1,4 +1,3 @@
-2016-03-16-biblical-parallelism-unremarkable.md
 ---
 title: Parallelism in Biblical Poetry Is Unremarkable
 author: wagraham87@gmail.com
